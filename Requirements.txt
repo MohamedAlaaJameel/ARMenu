@@ -1,0 +1,7 @@
+Unity ver : 2022.3.20
+You need to install these packages :
+com.unity.nuget.newtonsoft-json
+ar foundation 5.1.3
+ar core       5.1.3
+Zenject:Extenject.unitypackage
+https://github.com/modesttree/Zenject/releases/tag/9.2.0
